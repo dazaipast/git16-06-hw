@@ -1,4 +1,4 @@
-# Отчёт
+﻿# Отчёт
 
 **ФИО:** dazaipast  
 **Группа:** учебная группа  
@@ -12,3 +12,7 @@
 5. chore: add gitignore
 6. docs: update readme and report
 7. refactor: replace instruction with history
+
+## Изменения
+
+Добавлен раздел "Как запустить" в README.md.
