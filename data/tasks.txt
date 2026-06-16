@@ -1,0 +1,4 @@
+Изучить команды git add и git commit
+Создать README.md
+Опубликовать проект на GitHub
+Потренироваться с ветками branch1 и branch2
