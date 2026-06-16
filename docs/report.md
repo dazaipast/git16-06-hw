@@ -16,3 +16,7 @@
 ## Изменения
 
 Добавлен раздел "Как запустить" в README.md.
+
+## GitHub
+
+https://github.com/dazaipast/git16-06-hw
